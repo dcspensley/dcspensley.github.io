@@ -1,8 +1,9 @@
 body {
-  background-color: yellow;
+  background-color: azure;
 }
 
 h1 {
-  color: blueviolet;
+  color: chocolate;
   margin-left: 200px;
+    margin-right: 200px;
 }
